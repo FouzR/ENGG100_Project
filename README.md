@@ -8,4 +8,4 @@ Project to somehow use Matlab to compute the G-Force and friction experienced by
 
 We'll use the formula
 ### Friction
-$Friction \ne frac{m*v^2}{r}$
+$Friction \le \frac{m*v^2}{r}$
