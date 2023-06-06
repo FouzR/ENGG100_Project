@@ -16,7 +16,8 @@ $G-Force = \frac{acceleration(m/s^2)}{9.8 m/s^2}$
 $a = \frac{V^2}{r} = v\omega = \omega^2r$
 ### Motion Equations
 
-$V = V_0 + at$\n
+$V = V_0 + at$
+
 $V^2-u^2 = 2as$
 
 ## To Do
