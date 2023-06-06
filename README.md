@@ -17,10 +17,10 @@ $a = \frac{V^2}{r} = v\omega = \omega^2r$
 
 ## To Do
  Functions
- 1) To input the data(Radius of curvature, Velocity, and Tyre Type(?))
+ 1) [x] To input the data(Radius of curvature, Velocity, and Tyre Type(?))
  2) G-Force graphs
  3) Friction graphs
- 4) To draw said graph
+ 4) [x] To draw said graph
  5) Animation of the vehicle on a graph/figure
 
 ## Drawing of rough final Figure/Graph
