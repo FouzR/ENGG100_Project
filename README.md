@@ -22,6 +22,8 @@ $a = \frac{V^2}{r} = v\omega = \omega^2r$
  3) Friction graphs
  4) To draw said graph
  5) Animation of the vehicle on a graph/figure
+ 6) 3D vehicle sprite on the plot, graphing it’s motion
+ 7) banking part if possible
 
 ## Drawing of rough final Figure/Graph
 ![Rough Representation of the end result/Figure](/Pic.jpg )
