@@ -32,12 +32,14 @@ $V^2-u^2 = 2as$
 
 ## Functions we need
  Other functions
-- [ ] Using GUI(final product), take input for Velocity and radius of curvature of the turn(optional - deceleration)
-- [ ] Functions to compute the G-Force with the velocity and radius of curvature, returning G force(at a specific time if we account for some deceleration, but we don't here)
+- [ ] Using GUI(final product), take input for Velocity and radius of curvature of the turn(optional - deceleration) 
+- [ ] Functions to compute the G-Force with the velocity and radius of curvature, returning G force(at a specific time 
+if we account for some deceleration, but we don't here)(format- inputs= Velocity, radius of curvature, deceleration(0 by default), and angle of bank))
+In this case, the angle of the bank affects the Normal, which will act opposite to the G-force, reducing it)
 - [ ] Graph the G Force, as the vehicle(below) moves
 - [ ] Graph the friction(again, below) with the motion of the vehicle
-- [ ] Banking of the curve(\theta). More equations required. Will also vary the friction
-- [ ] Function for friction, with Normal force, or, Mass+\theta
+- [ ] Banking of the curve($\theta$). More equations required. Will also vary the friction
+- [ ] Function for friction, with Normal force, or, Mass+$\theta$
 - [ ] Animation of the vehicle(2D/3D, if banking is present or not)
 - [x] Graphing the road
 
