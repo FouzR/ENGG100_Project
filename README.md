@@ -13,7 +13,7 @@ $Friction \le \frac{mv^2}{r}$
 ### G-Force
 $G-Force = \frac{acceleration in m/s^2}{9.8 m/s^2}$
 
-$a = \frac{V^2}{r} = v\omega = \omega^2r
+$a = \frac{V^2}{r} = v\omega = \omega^2r$
 
 ## To Do
  Functions
@@ -23,5 +23,5 @@ $a = \frac{V^2}{r} = v\omega = \omega^2r
  4) To draw said graph
  5) Animation of the vehicle on a graph/figure
 
-## Drawing of rough final
+## Drawing of rough final Figure/Graph
 ![Rough Representation of the end result/Figure](/Pic.jpg )
