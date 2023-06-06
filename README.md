@@ -11,7 +11,7 @@ We'll use the formulas:
 $Friction \le \frac{mv^2}{r}$
 
 ### G-Force
-$G-Force = \frac{acceleration in m/s^2}{9.8 m/s^2}$
+$G-Force = \frac{acceleration(m/s^2)}{9.8 m/s^2}$
 
 $a = \frac{V^2}{r} = v\omega = \omega^2r$
 
