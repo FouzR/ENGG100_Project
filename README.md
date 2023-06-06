@@ -4,7 +4,7 @@ Project to somehow use Matlab to compute the G-Force and friction experienced by
 ## So Far
 - We've assumed constant Velocity
 
-- 2 Values of friction constants, one for regular wheels, rated at $\nu_k=0.7$, and the other for racing(soft) at $\nu_k=0.9$
+- 2 Values of friction constants, one for regular wheels, rated at $\mu_k=0.7$, and the other for racing(soft) at $\mu_k=0.9$
 
 We'll use the formula
 ### Friction
