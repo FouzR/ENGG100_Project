@@ -39,7 +39,7 @@ In this case, the angle of the bank affects the Normal, which will act opposite 
 - [ ] Graph the G Force, as the vehicle(below) moves
 - [ ] Graph the friction(again, below) with the motion of the vehicle
 - [ ] Banking of the curve($\theta$). More equations required. Will also vary the friction
-- [ ] Function for friction, with Normal force, or, Mass+$\theta$
+- [ ] Function for friction, with Normal force, or, Mass + $\theta$
 - [ ] Animation of the vehicle(2D/3D, if banking is present or not)
 - [x] Graphing the road
 
