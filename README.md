@@ -26,7 +26,7 @@ $V^2-u^2 = 2as$
 - [ ] G-Force graphs
 - [ ] Friction graphs
 - [x] To draw said graph
-- [ ] Animation of the vehicle on a graph/figure
+- [x] Animation of the vehicle on a graph/figure
 - [ ] 3D vehicle sprite on the plot, graphing it’s motion
 - [ ] banking part if possible
 
