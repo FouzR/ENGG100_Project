@@ -3,7 +3,7 @@ function G = Gforce(v,r,ang_bank) %the variables here are for angular speed, rad
 g=9.81; %Setting value for gravity
 
 if r>=0
-    G= ((g*(cosd(ang_bank))^2)^2+((v^2/r)+(g*cosd(ang_bank)*sind(ang_bank)))^2)^0.5/g %Calculating G force for car in Uniform circular motion
+    G= ((g*(cosd(ang_bank))^2)^2+((v^2/r)+(g*cosd(ang_bank)*sind(ang_bank)))^2)^0.5/g; %Calculating G force for car in Uniform circular motion
     
 
 else 

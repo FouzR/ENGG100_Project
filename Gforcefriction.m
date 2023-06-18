@@ -2,10 +2,10 @@ function [G,F] = Gforcefriction(v,r,m,bankAng, friction_on_tyres)
 g = 9.81;
 
     if bankAng < 90 && bankAng >= 0
-        F = ((v^2/r)*m)/cosd(bankAng) + m*g*tand(bankAng);
-
+%        F = ((v^2/r)*m)/cosd(bankAng) + m*g*tand(bankAng);
+        F = m*g*sind(bankAng)+(v^2*secd(bankAng))/r;
         %G1 = ((v^2/r)+(m*g*sind(bankAng)))/g;
-        G = (friction_on_tyres*cosd(bankAng)+sind(bankAng))/(cosd(bankAng)-friction_on_tyres*sind(bankAng));
+        G = 1+ (friction_on_tyres*cosd(bankAng)+sind(bankAng))/(cosd(bankAng)-friction_on_tyres*sind(bankAng));
     else
         msgbox('Invalid Bank Angle')
         F = 0;
