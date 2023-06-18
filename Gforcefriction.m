@@ -6,7 +6,7 @@ g = 9.81;
 
         G = ((v^2/r)+(m*g*sin(bankAng)))/g;
     else
-        disp('Invalid Bank Angle')
+        msgbox('Invalid Bank Angle')
         F = 0;
         G = 0;
     end
