@@ -1,5 +1,5 @@
 
-function vmax = vmaxcalc(r,ang_bank,TyreFriction);
+function vmax = vmaxcalc(r,ang_bank,TyreFriction)
 
 g=9.81;
 
