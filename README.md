@@ -6,6 +6,7 @@ Project to somehow use Matlab to compute the G-Force and friction experienced by
 
 - 2 Values of friction constants, one for regular wheels, rated at $\mu_k=0.7$, and the other for racing(soft) at $\mu_k=0.9$
 
+- https://www.desmos.com/calculator/h5s0igpmao for the road function part
 We'll use the formulas: 
 ### Friction
 $Friction \le \frac{mv^2}{r}$
