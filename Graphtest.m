@@ -1,4 +1,4 @@
-function Graphtest (x,y, T,t)
+unction Graphtest (x,y, T,t)
 % Graphs the road
 
 p = plot(x,y,x,y);

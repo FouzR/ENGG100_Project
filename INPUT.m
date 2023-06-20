@@ -1,4 +1,4 @@
-function [m, coeffric] = INPUT
+unction [m, coeffric] = INPUT
 % Mess = msgbox('This is a program that takes in Velocity and Radius of curvature and outputs the G-Forces, and if the tyres will slip of not'); 
 opts.Interpreter = 'tex';
 X = inputdlg({'Enter Mass of Car (kg)', ...
